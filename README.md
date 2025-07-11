@@ -27,13 +27,13 @@
 
 ## Project setup
 
-  - RUN -> docker compose build   ## Build the Project
+  - docker compose build 
 
-  - RUN -> docker compose up -d   ## Run the Docker Container
+  - docker compose up -d
 
-  - RUN -> docker logs -f url-shortner  ## To see the Logs of the container
+  - docker logs -f url-shortner
 
-  - Browse -> http://localhost:4001/swagger-ui
+Browse -> http://localhost:4001/swagger-ui
 
 ## Resources
 
