@@ -32,7 +32,7 @@ $ docker compose build
 
 $ docker compose up -d
 
-$ docker logs -f url-shortner
+$ docker logs -f url-shortener
 ```
 Browse -> http://localhost:4001/swagger-ui
 
